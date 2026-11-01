@@ -1,5 +1,5 @@
 """
-main.py - Engine Executive File
+Engine execution script
 """
 from pathlib import Path
 from recommender import read_purchases, RecommendationEngine
